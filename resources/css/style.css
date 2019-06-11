@@ -1,0 +1,32 @@
+html{
+    font-family: Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    display: block;
+    margin: 0.67rem 0;
+}
+
+.download a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer h5{
+    color: gray;
+    text-align: right;
+}
+
+.travel-guide h1{
+    font-size: 38px;
+}
+
+.travel-guide h5 {
+    color: gray;
+    font-size: 21px;
+}
